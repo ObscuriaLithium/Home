@@ -4,8 +4,9 @@
       "id": "3",
       "date": "January 1, 2023",
       "title": "Initial Message",
+      "subject": "Test subject>test subject>test subject",
       "content": [
-        "Lorem ipsum dolor sit amet,",
+        "{H1}Lorem ipsum dolor sit amet,",
         "consectetur adipiscing elit.",
         "Sed mollis lacinia magna.",
         "Orci varius natoque penatibus",
@@ -35,6 +36,7 @@
       "id": "2",
       "date": "January 1, 2023",
       "title": "Test 2",
+      "subject": "Test",
       "content": [
         "line1",
         "line2",
@@ -47,6 +49,7 @@
       "id": "1",
       "date": "January 1, 2023",
       "title": "Test 1",
+      "subject": "Test",
       "content": [
         "line1",
         "line2",
