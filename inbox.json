@@ -6,7 +6,7 @@
       "title": "Initial Message",
       "subject": " Test subject> test subject> test subject",
       "content": [
-        "{H1}Lorem ipsum dolor sit amet,",
+        "{H1}{BLACK}Lorem ipsum dolor sit amet,",
         "consectetur adipiscing elit.",
         "Sed mollis lacinia magna.",
         "Orci varius natoque penatibus",
