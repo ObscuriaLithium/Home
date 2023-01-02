@@ -1,12 +1,30 @@
 {
   "messages": [
     {
-      "id": "17",
+      "id": "1",
       "date": "January 1, 2023",
-      "title": "Test 2",
-      "subject": " Test",
+      "title": "Welcome!",
+      "subject": " Introduction to the> Obscuria Collection> mail system.",
       "content": [
-        "line1"
+        "Messages about important",
+        "updates and releases will",
+        "appear here. Please note",
+        "that the search for new",
+        "messages occurs when you",
+        "start the game or enter",
+        "the /obscure reload",
+        "command (and also if you)",
+        "have an internet connection).",
+        "",
+        "You can configure the",
+        "conditions for displaying",
+        "notifications about the",
+        "presence for new messages",
+        "in the {DARK_GRAY}config/Obscuria/",
+        "{DARK_GRAY}obscure-api-client.toml{BLACK}.",
+        "",
+        "Thanks for playing with",
+        "our mods!{H1}"
       ]
     },
     {
