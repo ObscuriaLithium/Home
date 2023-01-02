@@ -3,13 +3,10 @@
   "promos": {
     "1.19.3-latest": "10",
     "1.19.3-recommended": "10",
-    
     "1.19.2-latest": "11",
     "1.19.2-recommended": "11",
-    
     "1.18.2-latest": "10",
     "1.18.2-recommended": "10",
-    
     "1.16.5-latest": "10",
     "1.16.5-recommended": "10"
   }
