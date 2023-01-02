@@ -12,19 +12,19 @@
         "that the search for new",
         "messages occurs when you",
         "start the game or enter",
-        "the /obscure reload",
-        "command (and also if you)",
+        "the {DARK_GREEN}/obscure reload",
+        "command (and also if you",
         "have an internet connection).",
         "",
         "You can configure the",
         "conditions for displaying",
         "notifications about the",
         "presence for new messages",
-        "in the {DARK_GRAY}config/Obscuria/",
-        "{DARK_GRAY}obscure-api-client.toml{BLACK}.",
+        "in the {DARK_GREEN}config/Obscuria/",
+        "{DARK_GREEN}obscure-api-client.toml{BLACK}.",
         "",
-        "Thanks for playing with",
-        "our mods!{H1}"
+        "{H1}Thanks for playing",
+        "with our mods!"
       ]
     },
     {
