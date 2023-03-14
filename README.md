@@ -1,4 +1,3 @@
-## Obscuria Collection Home
-This place stores mods online data.
+## Deprecated repository
 
 <a href="https://discord.gg/jSHHJSUWdY"><img src="contributions.svg"></a>
